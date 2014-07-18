@@ -7,6 +7,8 @@ Source files for the Tuts+ course: [How to Build a Hypermedia-Driven REST API](h
 
 ---
 
+### Source Files Usage
+
 This example will walk through building a very basic movie API to demonstrate how to take an RPC-style ("RMM Level 0" or "Swamp of POX") API and improve incrementally, explaining concepts of resources, HTTP verbs, and hypermedia along the way.
 
 Note: If you are starting with this tutorial, make sure you do the following after you clone the repo.
